@@ -1,0 +1,15 @@
+#Write a Python GUI program to create a list of Computer Science Courses using Tkinter module (use Listbox)
+
+from tkinter import *
+window = Tk()
+window.geometry("200x250")
+lbl = Label(window, text="omputer Science Courses")
+listbox = Listbox(window)
+listbox.insert(1, "Python")
+listbox.insert(2, "Core Java")
+listbox.insert(3, "OOSE")
+listbox.insert(4, "Cyber Security")
+listbox.insert(5, "IOT")
+lbl.pack()
+listbox.pack()
+window.mainloop()
