@@ -1,0 +1,3 @@
+# TY-PYTHON-SLIPS
+
+TYBBA CA Python Slips CBCS 2019 Patterns
