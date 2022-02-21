@@ -31,7 +31,7 @@ class Employee:
 def main():
     # Employee Object
     emp = Employee()
-    emp.setData(1, 'pankaj', 'male', 'delhi', 55000)
+    emp.setData(1, 'Syed Nadeem Hussain', 'Male', 'Pune', 50000)
     emp.showData()
 
 
